@@ -8,7 +8,7 @@
 
 ## 📋 Sobre o Projeto
 
-Este simulador foi desenvolvido para facilitar o desenvolvimento e teste de sistemas embarcados que consomem dados do barramento CAN veicular. Ele emula com precisão os parâmetros de um veículo comercial pesado, seguindo as especificações do padrão **FMS Truck (Fleet Management System)**.
+Este simulador foi desenvolvido para facilitar o desenvolvimento e teste de sistemas embarcados que consomem dados do barramento CAN veicular. Ele emula com precisão os parâmetros de um veículo comercial pesado**.
 
 ### 🎯 Casos de Uso
 - **Desenvolvimento de rastreadores veiculares**
