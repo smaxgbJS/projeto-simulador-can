@@ -197,10 +197,6 @@ Contribuições são bem-vindas! Por favor:
 - Verifique se o formato das mensagens está correto
 - Valide os PGNs (Parameter Group Numbers) utilizados
 
-## 📄 Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
 ## 👨‍💻 Autor
 
 **Samuel Braga**
