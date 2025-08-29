@@ -1,6 +1,6 @@
 # 🚛 Simulador CAN - FMS Truck
 
-> **Simulador de pacotes CAN baseado em Arduino e MCP2515 para emulação de parâmetros veiculares**
+> **Simulador de pacotes CAN baseado em Arduino e MCP2515 para emulação de parâmetros veiculares segundo o padrão FMS Truck (SAE J1939)**
 
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -8,7 +8,7 @@
 
 ## 📋 Sobre o Projeto
 
-Este simulador foi desenvolvido para facilitar o desenvolvimento e teste de sistemas embarcados que consomem dados do barramento CAN veicular. Ele emula com precisão os parâmetros de um veículo comercial pesado**.
+Este simulador foi desenvolvido para facilitar o desenvolvimento e teste de sistemas embarcados que consomem dados do barramento CAN veicular. Ele emula com precisão os parâmetros de um veículo comercial pesado, seguindo as especificações do padrão **FMS Truck (Fleet Management System)**.
 
 ### 🎯 Casos de Uso
 - **Desenvolvimento de rastreadores veiculares**
@@ -23,7 +23,7 @@ Este simulador foi desenvolvido para facilitar o desenvolvimento e teste de sist
 - **Velocidade**: 250 kbps (padrão FMS)
 - **Padrão**: SAE J1939 / FMS Truck
 - **Intervalo de envio**: Configurável (padrão: 1000ms)
-- **Alimentação**: 5V (Arduino) + 12V opcional
+- **Alimentação**: 5V (Arduino)
 
 ## 🔧 Parâmetros Simulados
 
