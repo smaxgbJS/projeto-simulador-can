@@ -205,7 +205,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 **Samuel Braga**
 - GitHub: [@samuelbraga](https://github.com/samuelbraga)
-- LinkedIn: [Samuel Braga]([https://linkedin.com/in/samuelbraga](https://www.linkedin.com/in/samuel-braga-b831941b1/)
+- LinkedIn: [@samuelbraga](https://www.linkedin.com/in/samuel-braga-b831941b1/)
 
 ---
 
